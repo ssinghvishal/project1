@@ -16,7 +16,5 @@ The challenge aims to evaluate participants on their coding efficiency, algorith
 
 * Adaptability: As the challenge encompasses a diverse set of coding problems, participants must be adaptable in applying different algorithms and techniques to solve problems that may vary in difficulty and complexity.
 
-**Note:**
 
-1. Solve 30 coding problems out of the different problem statements given here.
-2. Create a video explaining any 5 questions and include the video link before submitting.# project1
+
